@@ -1,16 +1,20 @@
-= Get Started
+# Get Started
 
-== requirments
+## Requirements
 
-• python
-• pip
+To run this application, you will need the following software installed on your system:
 
-== install rdflib
+-   Python
+-   pip
 
-```bash
+## Install rdflib
+
+To install the required Python library, rdflib, follow these steps:
+
+````bash
 cd csv2turtle
 pip install rdflib
-```
+
 
 ---
 
@@ -21,14 +25,14 @@ output folder can have only .ttl files.
 
 ---
 
-= Run the application
+# Run the application
 
 • Put your .csv file in the input folder.
 • Open your terminal and navigate to the script directory.
 
 ```bash
 cd csv2turtle
-```
+````
 
 • Run the script
 
