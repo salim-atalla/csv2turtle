@@ -27,17 +27,17 @@ output folder can have only .ttl files.
 
 # Run the application
 
-• Put your .csv file in the input folder.
-• Open your terminal and navigate to the script directory.
+-   Put your .csv file in the input folder.
+-   Open your terminal and navigate to the script directory.
 
 ```bash
 cd csv2turtle
 ```
 
-• Run the script
+-   Run the script
 
 ```bash
 python3 csv2turtle.py
 ```
 
-• You can find you .ttl file in the output directoy.
+-   You can find you .ttl file in the output directoy.
