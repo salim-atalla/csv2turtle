@@ -11,10 +11,10 @@ To run this application, you will need the following software installed on your 
 
 To install the required Python library, rdflib, follow these steps:
 
-````bash
+```bash
 cd csv2turtle
 pip install rdflib
-
+```
 
 ---
 
@@ -32,7 +32,7 @@ output folder can have only .ttl files.
 
 ```bash
 cd csv2turtle
-````
+```
 
 • Run the script
 
